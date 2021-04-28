@@ -1,0 +1,13 @@
+C:\Users\Kamran\source\repos\Builder1\Builder1\obj\Debug\netcoreapp3.1\Builder1.csprojAssemblyReference.cache
+C:\Users\Kamran\source\repos\Builder1\Builder1\obj\Debug\netcoreapp3.1\Builder1.AssemblyInfoInputs.cache
+C:\Users\Kamran\source\repos\Builder1\Builder1\obj\Debug\netcoreapp3.1\Builder1.AssemblyInfo.cs
+C:\Users\Kamran\source\repos\Builder1\Builder1\obj\Debug\netcoreapp3.1\Builder1.csproj.CoreCompileInputs.cache
+C:\Users\Kamran\source\repos\Builder1\Builder1\bin\Debug\netcoreapp3.1\Builder1.exe
+C:\Users\Kamran\source\repos\Builder1\Builder1\bin\Debug\netcoreapp3.1\Builder1.deps.json
+C:\Users\Kamran\source\repos\Builder1\Builder1\bin\Debug\netcoreapp3.1\Builder1.runtimeconfig.json
+C:\Users\Kamran\source\repos\Builder1\Builder1\bin\Debug\netcoreapp3.1\Builder1.runtimeconfig.dev.json
+C:\Users\Kamran\source\repos\Builder1\Builder1\bin\Debug\netcoreapp3.1\Builder1.dll
+C:\Users\Kamran\source\repos\Builder1\Builder1\bin\Debug\netcoreapp3.1\Builder1.pdb
+C:\Users\Kamran\source\repos\Builder1\Builder1\obj\Debug\netcoreapp3.1\Builder1.dll
+C:\Users\Kamran\source\repos\Builder1\Builder1\obj\Debug\netcoreapp3.1\Builder1.pdb
+C:\Users\Kamran\source\repos\Builder1\Builder1\obj\Debug\netcoreapp3.1\Builder1.genruntimeconfig.cache

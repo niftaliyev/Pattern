@@ -1,0 +1,26 @@
+C:\Users\Камран\source\repos\AnimalsFabrice\AnimalsFabrice\bin\Debug\netcoreapp3.1\AnimalsFabrice.exe
+C:\Users\Камран\source\repos\AnimalsFabrice\AnimalsFabrice\bin\Debug\netcoreapp3.1\AnimalsFabrice.deps.json
+C:\Users\Камран\source\repos\AnimalsFabrice\AnimalsFabrice\bin\Debug\netcoreapp3.1\AnimalsFabrice.runtimeconfig.json
+C:\Users\Камран\source\repos\AnimalsFabrice\AnimalsFabrice\bin\Debug\netcoreapp3.1\AnimalsFabrice.runtimeconfig.dev.json
+C:\Users\Камран\source\repos\AnimalsFabrice\AnimalsFabrice\bin\Debug\netcoreapp3.1\AnimalsFabrice.dll
+C:\Users\Камран\source\repos\AnimalsFabrice\AnimalsFabrice\bin\Debug\netcoreapp3.1\AnimalsFabrice.pdb
+C:\Users\Камран\source\repos\AnimalsFabrice\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.csprojAssemblyReference.cache
+C:\Users\Камран\source\repos\AnimalsFabrice\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.AssemblyInfoInputs.cache
+C:\Users\Камран\source\repos\AnimalsFabrice\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.AssemblyInfo.cs
+C:\Users\Камран\source\repos\AnimalsFabrice\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.csproj.CoreCompileInputs.cache
+C:\Users\Камран\source\repos\AnimalsFabrice\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.dll
+C:\Users\Камран\source\repos\AnimalsFabrice\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.pdb
+C:\Users\Камран\source\repos\AnimalsFabrice\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.genruntimeconfig.cache
+D:\pattern\Abstract Factory\AnimalsFabrice\bin\Debug\netcoreapp3.1\AnimalsFabrice.exe
+D:\pattern\Abstract Factory\AnimalsFabrice\bin\Debug\netcoreapp3.1\AnimalsFabrice.deps.json
+D:\pattern\Abstract Factory\AnimalsFabrice\bin\Debug\netcoreapp3.1\AnimalsFabrice.runtimeconfig.json
+D:\pattern\Abstract Factory\AnimalsFabrice\bin\Debug\netcoreapp3.1\AnimalsFabrice.runtimeconfig.dev.json
+D:\pattern\Abstract Factory\AnimalsFabrice\bin\Debug\netcoreapp3.1\AnimalsFabrice.dll
+D:\pattern\Abstract Factory\AnimalsFabrice\bin\Debug\netcoreapp3.1\AnimalsFabrice.pdb
+D:\pattern\Abstract Factory\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.csprojAssemblyReference.cache
+D:\pattern\Abstract Factory\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.AssemblyInfoInputs.cache
+D:\pattern\Abstract Factory\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.AssemblyInfo.cs
+D:\pattern\Abstract Factory\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.csproj.CoreCompileInputs.cache
+D:\pattern\Abstract Factory\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.dll
+D:\pattern\Abstract Factory\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.pdb
+D:\pattern\Abstract Factory\AnimalsFabrice\obj\Debug\netcoreapp3.1\AnimalsFabrice.genruntimeconfig.cache
